@@ -14,6 +14,14 @@
       "symbol": "SUM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
+    },
+    {
+      "chainId": 1337,
+      "address": "0x0994b78d4563af848696cb3ce74d789b2ff63b68",
+      "name": "DDD",
+      "symbol": "DDD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
     }
   ],
   "version": {
