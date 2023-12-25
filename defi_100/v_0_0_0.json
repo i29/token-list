@@ -1,0 +1,36 @@
+{
+    "name": "DogeLayer Swap DeFi 100",
+    "logoURI": "",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2023-12-25T15:59:06.416+00:00",
+    "tokens": [
+        {
+            "chainId": 16888,
+            "address": "0xcA5e99220a325bf490462a75B4F5beB6502c7e6e",
+            "name": "ABC",
+            "symbol": "ABC",
+            "decimals": 18
+        },
+        {
+            "chainId": 16888,
+            "address": "0x8A2f4A06d775d3eeA7cCD5357088Fa704D8D7aC8",
+            "name": "UUU",
+            "symbol": "UUU",
+            "decimals": 18
+        },
+        {
+            "chainId": 16888,
+            "address": "0x0E7278e7a71526f6E9c8cC03B19B88B8b6705558",
+            "name": "DEVDEV",
+            "symbol": "DEV",
+            "decimals": 18
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
